@@ -1,0 +1,5 @@
+<!-- Before the Table: Thin Line -->
+    <div style="border-top: 1px solid #000; margin-top:20px 0 "/>
+
+<!-- After the Table: Thin Line -->
+    <div style="border-top: 1px solid #000;mt-4 "/>
